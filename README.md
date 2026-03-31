@@ -1,10 +1,17 @@
+<p align="center">
+  <img src="https://img.shields.io/badge/OS-Windows_11-0078D4?logo=windows-11&logoColor=white" />
+  <img src="https://img.shields.io/badge/Language-Batch-4EAA25?logo=gnubash&logoColor=white" />
+  <img src="https://img.shields.io/badge/Shell-PowerShell-5391FE?logo=powershell&logoColor=white" />
+  <img src="https://img.shields.io/badge/License-MIT-green" />
+</p>
+
 # Windows 11 AutoCustomizer
 
 A fully automated setup to customize Windows 11.
 
 ---
 
-## Quick Installation (PowerShell)
+## ⚡ Quick Installation (PowerShell)
 
 Copy and paste this command into PowerShell (Run as Administrator) to download and execute everything automatically:
 
