@@ -36,6 +36,37 @@ Adds a transparency/blur (Mica) effect to File Explorer.
 
 ---
 
+## 🎵 Spotify
+
+For a complete customization, follow these steps carefully:
+
+* **Download**: Go to the [official website](https://www.spotify.com/de-en/download/windows/) and download the installer by clicking on **"Download directly from Spotify"**.
+   > **IMPORTANT**: Do not download Spotify from the Microsoft Store.
+* **Installation**: Once the download is complete, install it but **DO NOT open the application**.
+* **Customization (Spicetify)**: To unlock themes and the marketplace, open **PowerShell** and enter the command found in the Spicetify official getting started guide.
+* **Marketplace**: After running the command, open Spotify. You will see the **Marketplace icon** (next to Home). From there, you can download extensions and themes.
+
+Here are some examples of my setup:
+
+<img width="446" height="428" alt="image" src="https://github.com/user-attachments/assets/002ba447-6683-4e71-bd91-5ed9452c02b7" />
+
+
+(Marketplace Example)
+
+<img width="215" height="451" alt="image" src="https://github.com/user-attachments/assets/f7e6898e-e500-448e-a35f-7c706808b4e2" />
+
+(Theme Example)
+
+<img width="679" height="340" alt="image" src="https://github.com/user-attachments/assets/0e7ca2bd-3665-4556-8233-fd0989491297" />
+
+(Extensions Example) 
+
+<img width="827" height="522" alt="image" src="https://github.com/user-attachments/assets/14ce2dc6-1698-40e3-8c4b-b8ffeb168f7d" />
+
+Inside the Marketplace, look for the 'Spotify' tab: by selecting it, you can browse and choose any theme you like.
+
+---
+
 ## 💎 Credits
 
 All rights to the original assets belong to their respective creators:
