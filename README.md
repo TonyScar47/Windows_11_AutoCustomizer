@@ -41,6 +41,9 @@ Adds a transparency/blur (Mica) effect to File Explorer.
 * **Uninstallation:** If you wish to remove the effect, run the `ExplorerBlur/uninstall.cmd` file as an administrator.
 * **External Download:** For the latest original release, visit [Maplespe's repository](https://github.com/Maplespe/ExplorerBlurMica), download the `Release_x64.zip` from the "Releases" section, and register it via the DLL.
 
+> [!CAUTION]
+> If you **installed** the setup in a **specific path** and **later moved the entire folder** (for example, moving it from the Desktop to a specific folder like "Documents"), the effects will no longer be visible after restarting your computer. To **fix** this, you will need to **run the installation process again from the new location**.
+
 ---
 
 ## 🎵 Spotify
