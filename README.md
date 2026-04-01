@@ -7,7 +7,9 @@
 
 # Windows 11 AutoCustomizer
 
-A fully automated setup to customize Windows 11.
+A complete setup to customize Windows 11. **Currently**, the guide shows how to configure everything manually, including neat tweaks for programs like Spotify, VS Code, and more.
+
+>This approach allows you to choose exactly which modifications to apply to your system.
 
 ---
 
@@ -18,6 +20,21 @@ Copy and paste this command into PowerShell (Run as Administrator) to download a
 ```powershell
 :: Work in progress
 ```
+
+---
+
+## 🖐️ Why manual?
+
+The name AutoCustomizer reflects the long-term goal of this project: making Windows 11 customization as simple and guided as possible.
+
+Currently, I have chosen to provide a manual setup for several reasons:
+
+* **Full Control**: You can decide exactly which modifications to apply without running scripts that change your system blindly.
+* **Transparency**: By following the steps manually, you know exactly what is being changed, where files are placed, and how to revert them.
+* **Modularity**: Everyone has different tastes. This approach allows you to pick the cursors, the blur effect, or the app tweaks independently.
+
+> [!TIP]
+> In the future, **some components** may be **automated**, but the philosophy of leaving the **final choice** to the user **will remain** the same.
 
 ---
 
@@ -78,7 +95,9 @@ Here are some examples of my setup:
 
 <img width="827" height="522" alt="image" src="https://github.com/user-attachments/assets/14ce2dc6-1698-40e3-8c4b-b8ffeb168f7d" />
 
-Inside the Marketplace, look for the 'Spotify' tab: by selecting it, you can browse and choose any theme you like.
+Inside the Marketplace, look for the 'Spotify' tab: by selecting it, you can browse and choose any theme you like
+
+**(I personally love the CatppuccinMocha theme! 🐱)**.
 
 ---
 
