@@ -50,7 +50,12 @@ For a complete customization, follow these steps carefully:
 * **Download**: Go to the [official website](https://www.spotify.com/de-en/download/windows/) and download the installer by clicking on **"Download directly from Spotify"**.
    > **IMPORTANT**: Do not download Spotify from the Microsoft Store.
 * **Installation**: Once the download is complete, install it but **DO NOT open the application**.
-* **Customization (Spicetify)**: To unlock themes and the marketplace, open **PowerShell** and enter the command found in the Spicetify official getting started guide.
+* **Customization (Spicetify)**: To unlock themes and the marketplace, open **PowerShell** and enter the command found in the [Spicetify official getting started guide](https://spicetify.app/docs/getting-started):
+  
+  ```powershell
+  iwr -useb https://raw.githubusercontent.com/spicetify/cli/main/install.ps1 | iex
+  ```
+  
 * **Marketplace**: After running the command, open Spotify. You will see the **Marketplace icon** (next to Home). From there, you can download extensions and themes.
 
 Here are some examples of my setup:
