@@ -13,6 +13,17 @@ A complete setup to customize Windows 11. **Currently**, the guide shows how to 
 
 ---
 
+## 📑 Index
+- [⚡ Quick Installation (PowerShell)](#-quick-installation-powershell)
+- [🖐️ Why manual?](#️-why-manual)
+- [🖱️ Cursors](#️-cursors)
+- [📂 ExplorerBlur (Mica Effect)](#-explorerblur-mica-effect)
+- [🎵 Spotify](#-spotify)
+- [💎 Credits](#-credits)
+- [📜 License](#-license)
+
+---
+
 ## ⚡ Quick Installation (PowerShell)
 
 Copy and paste this command into PowerShell (Run as Administrator) to download and execute everything automatically:
