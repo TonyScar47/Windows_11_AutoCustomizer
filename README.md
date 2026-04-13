@@ -19,6 +19,7 @@ A complete setup to customize Windows 11. **Currently**, the guide shows how to 
 - [🖱️ Cursors](#️-cursors)
 - [📂 ExplorerBlur (Mica Effect)](#-explorerblur-mica-effect)
 - [🎵 Spotify](#-spotify)
+- [🎨 Catppuccin Theme](#-catppuccin-theme)
 - [💎 Credits](#-credits)
 - [📜 License](#-license)
 
@@ -89,7 +90,7 @@ For a complete customization, follow these steps carefully:
   
 * **Marketplace**: After running the command, open Spotify. You will see the **Marketplace icon** (next to Home). From there, you can download extensions and themes.
 
-Here are some examples of my setup:
+### Here are some examples of my setup:
 
 <img width="446" height="428" alt="image" src="https://github.com/user-attachments/assets/002ba447-6683-4e71-bd91-5ed9452c02b7" />
 
@@ -112,12 +113,49 @@ Inside the Marketplace, look for the 'Spotify' tab: by selecting it, you can bro
 
 ---
 
+## 🎨 Catppuccin Theme
+
+To complete the look, I chose **Catppuccin**, a minimalist and soothing theme available in four flavors:
+
+* **Latte**: The lightest theme, harmoniously inverting the essence of dark themes.
+* **Frappé**: A less vibrant alternative using subdued colors for a muted aesthetic.
+* **Macchiato**: Medium contrast with gentle colors creating a soothing atmosphere.
+* **Mocha**: The Original — the darkest variant offering a cozy feeling with color-rich accents.
+
+### 🛠️ Installation
+Choose whether to use the ready-made files in the repository or download a different variant.
+
+* **Option A: Use the same theme (Mocha)**
+  If you want to use the Mocha version already included in the directory, take the theme file and the `Catppuccin` folder.
+* **Option B: Choose a different theme**
+  If you prefer another variant, download the zip from [DeviantArt](https://www.deviantart.com/niivu/art/Catppuccin-for-Windows-11-1076249390). Extract the content, go to `Windows 11 Themes`, and choose your preferred `.theme` file along with the `Catppuccin` folder.
+
+### 📂 Copying Files
+Paste your chosen theme file (e.g., `Mocha.theme`) and the `Catppuccin` folder into the following path:
+`C:\Windows\Resources\Themes`
+
+> [!WARNING]
+> If Windows is installed on a partition other than `C:`, make sure to navigate to the `Windows\Resources\Themes` folder on the correct partition.
+
+### 🚀 Activation
+1.  Right-click on the desktop and select **Personalize**.
+2.  Go to **Themes** and click on the preview image of the Catppuccin theme you installed.
+3.  **Final Touch**: Go back to `Personalization > Colors` and set **Accent color** to **Automatic**.
+
+> [!TIP]
+> For the wallpaper, you can use the one included with the theme or find a new one on [Wallhaven](https://wallhaven.cc/).
+
+---
+
 ## 💎 Credits
 
 All rights to the original assets belong to their respective creators:
 
 * *ExplorerBlurMica by Maplespe*: [Maplespe's repository](https://github.com/Maplespe/ExplorerBlurMica).
 * *Custom Cursors downloaded from VS Themes*: [VS Themes](https://vsthemes.org/en/cursors/)
+* *Spicetify*: [Spicetify Official Website](https://spicetify.app/).
+* *Catppuccin for Windows 11 by niivu*: [niivu's DeviantArt](https://www.deviantart.com/niivu/art/Catppuccin-for-Windows-11-1076249390).
+* *Wallpapers*: [Wallhaven](https://wallhaven.cc/).
 
 ---
 
