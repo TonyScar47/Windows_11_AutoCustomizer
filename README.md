@@ -157,6 +157,20 @@ Paste your chosen theme file (e.g., `Mocha.theme`) and the `Catppuccin` folder i
 > [!TIP]
 > For the wallpaper, you can use the one included with the theme or find a new one on [Wallhaven](https://wallhaven.cc/).
 
+### 🌐 Catppuccin for Websites (Stylus)
+If you want to apply the Mocha palette to the websites you visit (like YouTube, GitHub, Reddit, etc.), you can do so in a few simple steps using the Stylus extension:
+
+1. **Install the extension**: Add **Stylus** to your browser via its official store (e.g., Chrome Web Store). *(Note: make sure to download "Stylus" and not "Stylish")*.
+2. **Generate the theme file**: Go to the [Catppuccin Userstyles Customizer](https://userstyles.catppuccin.com/), select the **Mocha** dark variant, choose your preferred Accent color, and download the `.json` file.
+3. **Open settings**: Click on the Stylus extension icon in the top right corner of your browser and select **Manage**.
+4. **Import and apply**: In the left sidebar of the new page, click **Import** and select the .json file (either the one you downloaded or the one provided in this repository).
+5. **Uninstallation**: If you want to remove the theme from your websites, open the Stylus dashboard (**Manage**), find the Catppuccin entry, and click **Remove** or **Delete**. Alternatively, you can just uncheck the box next to it to disable it without deleting it
+
+Done! All supported websites will now automatically use the Catppuccin theme.
+
+> [!TIP]
+> To make it even easier, I've already included my personal `.json` configuration file in this repository. You can use it to get my exact setup instantly!
+
 ---
 
 ## 💎 Credits
@@ -168,6 +182,7 @@ All rights to the original assets belong to their respective creators:
 * *Spicetify*: [Spicetify Official Website](https://spicetify.app/).
 * *Catppuccin for Windows 11 by niivu*: [niivu's DeviantArt](https://www.deviantart.com/niivu/art/Catppuccin-for-Windows-11-1076249390).
 * *Wallpapers*: [Wallhaven](https://wallhaven.cc/).
+* *Catppuccin Userstyles*: [Userstyles Customizer](https://userstyles.catppuccin.com/).
 
 ---
 
