@@ -123,6 +123,17 @@ To complete the look, I chose **Catppuccin**, a minimalist and soothing theme av
 * **Mocha**: The Original — the darkest variant offering a cozy feeling with color-rich accents.
 
 ### 🛠️ Installation
+
+#### 1. Patcher & Restore Point (Crucial Step)
+By default, Windows blocks third-party themes, meaning changes won't apply to File Explorer or window control buttons (like the 'X' to close). To unlock these visual modifications, you need to use the patcher included in the folder.
+
+> [!CAUTION]
+> **ALWAYS create a System Restore Point** before installing the patcher. If a major Windows update conflicts with the patch, you might experience graphical glitches or black screens. A restore point is a lifesaver that allows you to easily revert back!
+
+* **How to install**: Inside the theme folder, find and run the **UltraUXTheme Patcher** executable. Follow the setup, apply the patches, and **restart your PC**.
+* **How to uninstall**: If you ever want to remove it and revert to the original Windows look, go to *Settings > Apps > Installed apps*, search for *UltraUXThemePatcher*, and uninstall it. It will automatically restore your original system files (remember to restart your PC afterwards!).
+
+#### 2. Choose your theme variant
 Choose whether to use the ready-made files in the repository or download a different variant.
 
 * **Option A: Use the same theme (Mocha)**
@@ -141,6 +152,7 @@ Paste your chosen theme file (e.g., `Mocha.theme`) and the `Catppuccin` folder i
 1.  Right-click on the desktop and select **Personalize**.
 2.  Go to **Themes** and click on the preview image of the Catppuccin theme you installed.
 3.  **Final Touch**: Go back to `Personalization > Colors` and set **Accent color** to **Automatic**.
+4.  **Uninstallation**: If you no longer wish to use the theme, simply delete the .themefile and theCatppuccinfolder from C:\Windows\Resources\Themes.
 
 > [!TIP]
 > For the wallpaper, you can use the one included with the theme or find a new one on [Wallhaven](https://wallhaven.cc/).
